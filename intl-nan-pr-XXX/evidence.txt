@@ -1,0 +1,9 @@
+Dart SDK 3.13.7, intl 0.20.3, AOT for linux-riscv64
+
+intl published:
+  linux-x64 host:    a799584ba35ceb07da135261aa6d7cfab674d18222dd7c1f7c67145408d68eb5
+  linux-arm64 host:  83813b32d1bbc2b8c63b274be92b5191c3d9b0d5a005695e2cdaa2430c7d12c1
+
+intl patched:
+  linux-x64 host:    ec8204808fdd736a886254ee9b542a49d6c7e23a2506e2873927fa521e1f76ac
+  linux-arm64 host:  ec8204808fdd736a886254ee9b542a49d6c7e23a2506e2873927fa521e1f76ac
