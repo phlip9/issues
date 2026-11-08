@@ -1,0 +1,7 @@
+[workspace]
+members = ["leaf", "bs", "pm", "app"]
+resolver = "2"
+
+[profile.release]
+# Keep the symbol names, so the output shows their hashes.
+strip = false

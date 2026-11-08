@@ -1,0 +1,17 @@
+cargo 1.99.1 (5f94df478 2026-08-27)
+rustc 1.99.1 (58cf8f9c3 2026-10-13)
+build host: aarch64-apple-darwin
+
+crate                kind    -C metadata
+app                  target  71db9166c9cdba99
+bs                   target  03030842a7d0c941
+build_script_build   host    47fd0c9bed8b9a3c
+leaf                 target  fb9fb77cd47e1512
+pm                   host    c98692b9e25784c7
+
+mangled symbols of leaf::leaf, bs::bs, app::app in app.wasm:
+  _RNvCs1UnguzFhWgX_4leaf4leaf
+  _RNvCs48hX0W1jsC5_3app3app
+  _RNvCs5AaESgog97B_2bs2bs
+
+app.wasm sha256: bde2b3ac427f41ef4abdd71607fff97d4d54b423d241a1671f0c7a6a54faa3dc

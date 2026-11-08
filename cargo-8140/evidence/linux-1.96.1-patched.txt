@@ -1,0 +1,17 @@
+cargo 1.96.2 (356927216 2026-06-26)
+rustc 1.96.1 (31fca3adb 2026-06-26)
+build host: x86_64-unknown-linux-gnu
+
+crate                kind    -C metadata
+app                  target  61b1e52df777de27
+bs                   target  d2dbf1fc8b693ad2
+build_script_build   host    c2aa26698252b29d
+leaf                 target  6c2ff8061f5be50c
+pm                   host    11aa71813d083d6f
+
+mangled symbols of leaf::leaf, bs::bs, app::app in app.wasm:
+  _ZN2bs2bs17h120d79141ff3a63bE
+  _ZN3app3app17h99ddcbcdff087889E
+  _ZN4leaf4leaf17hf7d20f18f45d5ef5E
+
+app.wasm sha256: 4aa0372bf0c4d2582a1de72b474bfac910dc0bc1eeace29b3f09c10052d805c0
