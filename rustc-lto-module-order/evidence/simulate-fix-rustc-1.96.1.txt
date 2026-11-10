@@ -1,0 +1,5 @@
+rustc 1.96.1 (31fca3adb 2026-06-26)
+lto=thin RENAME=0: A a177ce5a6e60bd0e B 3e554979bd4db8d3; members: lib.rmeta dup-aaaa.dup.e98a38ae71ef7c92-cgu.0.rcgu.o ; run: 14334736814884142557 14334736814884142557
+lto=fat RENAME=0: A f190e2eafbe917cf B 00a5f9ee26e44b6f; members: lib.rmeta dup-aaaa.dup.e98a38ae71ef7c92-cgu.0.rcgu.o ; run: 14334736814884142557 14334736814884142557
+lto=thin RENAME=1: A 3e554979bd4db8d3 B 3e554979bd4db8d3; members: lib.rmeta dup.e98a38ae71ef7c92-cgu.0.rcgu.o ; run: 14334736814884142557 14334736814884142557
+lto=fat RENAME=1: A 00a5f9ee26e44b6f B 00a5f9ee26e44b6f; members: lib.rmeta dup.e98a38ae71ef7c92-cgu.0.rcgu.o ; run: 14334736814884142557 14334736814884142557
